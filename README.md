@@ -22,7 +22,7 @@ All tasks are handled using clean, modular Bash scripts.
 ##  Project Structure
 ![Screenshot 2025-11-23 142532](https://github.com/user-attachments/assets/eee1e304-6154-4f6b-9ca1-4ea3eba8bfbc)
 
-```
+
 
 
 
@@ -33,7 +33,6 @@ All tasks are handled using clean, modular Bash scripts.
 * Sudo privileges
 * Bash shell
 
----
 
 ##  Installation & Setup
 
