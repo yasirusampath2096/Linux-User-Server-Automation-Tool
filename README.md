@@ -20,26 +20,12 @@ All tasks are handled using clean, modular Bash scripts.
 ---
 
 ##  Project Structure
+![Screenshot 2025-11-23 142532](https://github.com/user-attachments/assets/eee1e304-6154-4f6b-9ca1-4ea3eba8bfbc)
 
 ```
-linux-automation-tool/
-│
-├── add_users.sh
-├── delete_users.sh
-├── lock_users.sh
-├── user_report.sh
-├── setup_server.sh
-├── users.txt
-├── logs/
-│   ├── add_users.log
-│   ├── delete_users.log
-│   ├── lock_users.log
-│   ├── report.log
-│   └── server_setup.log
-└── README.md
-```
 
----
+
+
 
 ##  Requirements
 
