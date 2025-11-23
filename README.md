@@ -153,7 +153,7 @@ id username
 sudo systemctl status apache2
 ```
 
----<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38613b89-060a-4c7d-b9c3-740ceacbd90b" />
+
 
 
 
