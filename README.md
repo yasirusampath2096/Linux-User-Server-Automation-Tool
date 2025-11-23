@@ -155,19 +155,5 @@ sudo systemctl status apache2
 
 ---
 
-##  Upload to GitHub
 
-1. Create a new GitHub repository
-2. Push your project:
-
-```bash
-git init
-git add .
-git commit -m "Linux Automation Tool initial commit"
-git branch -M main
-git remote add origin <your-repo-url>
-git push -u origin main
-```
-
----
 
